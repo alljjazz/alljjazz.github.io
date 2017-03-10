@@ -1,0 +1,49 @@
+     .wrapper {
+         width: 650px;
+         margin: 0 auto;
+     }
+     
+     h1 {
+         font-size: 36px;
+     }
+
+     .img_cont {
+         text-align: center;
+     }
+
+    img {
+         width: 200px;
+         height: 200px;
+         overflow: hidden;
+         border: solid 1px #8f8f8f;
+     }
+
+     .img_underline {
+         color: #5d5e5c;
+         font-size: 14px;
+         font-family: Arial;
+     }
+
+     .wantto, .mobile, .mysite, .feedback_title {
+        font-size: 18px; font-weight: bold;
+     }
+
+     .table {
+            font-size: 14px;
+       color: #3b3b3b;
+    }
+
+     .mobile_number {
+        font-size: 14px;
+     }
+
+     .link {
+        font-size: 14px; font-style: italic;
+     }
+
+     .mobile_number, .feedback_text, .link {
+       margin-left: 35px;
+     }
+    .id, .motivation, .contacts {
+         border-bottom: 1px solid #c8c6c5;
+         }
